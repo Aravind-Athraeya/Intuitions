@@ -3,7 +3,7 @@ Print BT within Range -  Do a inOrder traversal, Rucrse - Left, Root and Right. 
 Check if two BT are equal - Pass two BT root notes to a func. check for current root- LHS == RHS, REcurse left and right. Func should return bool
 Implment Queue- FIFO - Doesnt have to be a BBT.DEclare root. Start adding to the right for push. For Pop, go from the root or vice versa
 Root to leaf available - function should return a bool. recurse.
-LCA  - 
+LCA  -  USe Vector in C++, pass both vlaues to func and store the path in the vector, the LCA is the first differnt number in the vector
 Minimum SUM - 
 Inorder,preorder, post order & corresponding Sucessors- 
 f given node is root then postorder successor is NULL, since root is the last node print in a postorder traversal
