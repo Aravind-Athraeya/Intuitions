@@ -5,3 +5,4 @@ Implment Queue- FIFO - Doesnt have to be a BBT.DEclare root. Start adding to the
 Root to leaf available - function should return a bool. recurse.
 LCA  - 
 Minimum SUM - 
+Inorder,preorder, post order & corresponding Sucessors- 
