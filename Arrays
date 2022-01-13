@@ -1,0 +1,3 @@
+To Reverse a string - Use Stack
+To do BFS between two cities - Use Queue + Add adjacent vertices to the queue and pop as you visit
+Cycle detected - Use DFS
