@@ -12,3 +12,4 @@ If given node is left child of parent and right child of parent is not NULL, the
 
 Print root to all leaf - Send an array in the input, each step add the current path to the array and recuse. Finally print the array if there are no further children
 Height of the binary tree is the number of edges from root to leaf
+_> Reimplement everything in c#?
