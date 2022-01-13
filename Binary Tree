@@ -6,3 +6,5 @@ Root to leaf available - function should return a bool. recurse.
 LCA  - 
 Minimum SUM - 
 Inorder,preorder, post order & corresponding Sucessors- 
+Print root to all leaf - Send an array in the input, each step add the current path to the array and recuse. Finally print the array if there are no further children
+Height of the binary tree is the number of edges from root to leaf
